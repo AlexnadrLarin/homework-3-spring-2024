@@ -1,6 +1,7 @@
 # Домашнее задание 3
 
 ## Навбар
+Необходима авторизация, тип кабинета: физ. лицо <br>
 https://ads.vk.com/hq/overview <br>
 
 ![account](img/account.jpg)<br>
@@ -13,6 +14,7 @@ https://ads.vk.com/hq/overview <br>
 и происходит редирект https://ads.vk.com
 
 ## Бюджет
+Необходима авторизация, тип кабинета: физ. лицо <br>
 https://ads.vk.com/hq/budget/transactions <br>
 
 ![budget](img/budget.jpg)
@@ -30,6 +32,7 @@ https://ads.vk.com/hq/budget/transactions <br>
 ![budget_pay](img/budget_pay.jpg)
 
 ## Настройки
+Необходима авторизация, тип кабинета: физ. лицо <br>
 https://ads.vk.com/hq/settings <br>
 
 ![settings](img/settings.jpg)
@@ -53,6 +56,26 @@ https://ads.vk.com/hq/settings <br>
 - При нажатии на кнопку "История изменений" появляется окно
 ![setting_history](img/setting_history.jpg): <br>
 
-
-
-
+## Создание каталога
+Необходима авторизация, тип кабинета: физ. лицо <br>
+https://ads.vk.com/hq/ecomm/catalogs <br>
+![commerce_centerg/commerce_center.jpg)
+- При нажатии на кнопку "Создать каталог" появляется окно создания каталога <br>
+![commerce_center_catalog](img/commerce_center_catalog.jpg)<br>
+- При нажатии на кнопку "Фид или сообщество" появляются дополнительные элементы ввода из фида или сообщества ВКонтакте
+![commerce_center_catalog_feed](img/commerce_center_catalog_feed.png)
+- При вставке ссылки на сообщество, в котором более чем 3 услуги, чекбокс пропадает
+- При вставке ссылки на сообщество, в котором более чем 3 услуги, чекбокс пропадает
+- При нажатии на селект "Период обновления" появляется выпадающий список с вариантами "1 час", "4 часа", "8 часов", "Ежедневно"
+- При нажатии на кнопку "Маркетплейс" появляются дополнительные элемент ввода ссылки на страницу магазина в маркетплейсе
+![commerce_center_catalog_market](img/commerce_center_catalog_market.png)
+- При нажатии на кнопку "Вручную" появляются дополнительные элементы ввода для товара из фида
+![commerce_center_catalog_by_hand](img/commerce_center_catalog_by_hand.png)
+- При вводе ссылки на сообщество, у которого не менее 3 услуг, и нажатии кнопки "Создать каталог" происходит редирект на страницу
+![commerce_center_catalog_ready_feed.png](img/commerce_center_catalog_ready_feed.png)
+- При нажатии кнопки "Товары" появляется окно
+![commerce_center_catalog_products](img/commerce_center_catalog_products.png)
+- При нажатии кнопки "Группы" появляется окно
+![commerce_center_catalog_groups](img/commerce_center_catalog_groups.png)
+- При нажатии кнопки "Диагностика" появляется окно
+![commerce_center_catalog_diagnostics](img/commerce_center_catalog_diagnostics.png)
